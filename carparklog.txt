@@ -1,0 +1,4 @@
+23-01-2024 21:22:33;cpm_name=1;license_plate=123;action=check-in
+23-01-2024 21:22:39;cpm_name=1;license_plate=123;action=check-out;parking_fee=2.5
+23-01-2024 21:23:27;cpm_name=1;license_plate=123;action=check-in
+23-01-2024 21:23:32;cpm_name=1;license_plate=123;action=check-out;parking_fee=2.5
